@@ -4,3 +4,8 @@ MEMBER 1 CHAU CAT TUONG VO
 MEMBER 2 ROBERT JAMES FORD
 MEMBER 3 RESHAM BAHADUR GURUNG
 MEMBER 4 OLIVER HERBERT DOSWELL
+
+Tuong Cat
+This is to get familiar with GitHub
+Role in project: Team leader at the moment
+Preferred branch of engineering: Chemical 
