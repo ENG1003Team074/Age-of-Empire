@@ -4,3 +4,9 @@ MEMBER 1 CHAU CAT TUONG VO
 MEMBER 2 ROBERT JAMES FORD
 MEMBER 3 RESHAM BAHADUR GURUNG
 MEMBER 4 OLIVER HERBERT DOSWELL
+
+
+Resham Bahadur Gurung
+ I'm from Nepal. I came to Australia last year.
+ Role: Team member
+ Mechaniacal engineering.
