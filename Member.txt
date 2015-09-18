@@ -9,4 +9,8 @@ Role in project: provider of lulz
 
 Preferred branch of engineering: Electrical and computer systems engineering
 MEMBER 3 RESHAM BAHADUR GURUNG
-MEMBER 4 OLIVER HERBERT DOSWELL
+MEMBER 4 OLIVER HERBERT DOSWELL{
+  -18 years old
+  -mech eng
+  -first year uni
+  }
